@@ -1,6 +1,7 @@
 #include <iostream>
 #include <cstring>
 #include <stdlib.h>
+#include <bits/stdc++.h>
 using namespace std;
 
 class Data
